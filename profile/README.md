@@ -1,5 +1,5 @@
 # The AnyTimerApp Organisation
-The app to keep track of your anytimers!
+#### The app to keep track of your anytimers!
 
 Are you tired of keeping track of Anytimers in your notes? Do your friends always come up to you with a bunch of Anytimers that you don’t remember them having? And are you sick of defending how you obtained them and when you used them?
 
